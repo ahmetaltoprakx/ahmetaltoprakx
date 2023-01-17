@@ -1,4 +1,4 @@
-# Hi there, I'm Altoprak 👋 
+# Hi there, I'm Ahmet 👋 
 
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCtbQwhpYIhOSDqAhxbrWpTA">
