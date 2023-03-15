@@ -9,7 +9,7 @@
 
 ## I try to do everything I can!!
 
-- 🔭 I'm currently working on a UAV Project!
+- 🔭 I won the Teknofest electric car category
 - 🌱 I'm learning English🤣
 - 👯 I participated in CodeWeek
 - 🥅 I placed First Place in the Inovation Competetion
