@@ -13,7 +13,6 @@
 - 🌱 I'm learning English🤣
 - 👯 I participated in CodeWeek
 - 🥅 I placed First Place in the Inovation Competetion
-- ⚡ We as a group participated in the Teknofest IHA Drone Category.
 
 ### Languages and Tools:
 
